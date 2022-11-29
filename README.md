@@ -5,7 +5,7 @@
   
 - 👀 I am Sahil Dhingra.
 - 💻 I’m a Java Enthusiast. 
-- 🎓 I am currently in my freshman year
+- 🎓 I am currently in my sophomore year
 - 🌱 I’m currently learning Java and preparing for GSoC23
 
 ## Tech Stack 
