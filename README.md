@@ -1,7 +1,7 @@
 <pre align="center"  > <b>  This is Sahil!</b>🙋 </pre> 
 
 # 💫 About Me:
-🔭 I’m currently working on PHP(Laravel)
+🔭 I’m currently working on C#(.Net)
 
 [![](https://visitcount.itsvg.in/api?id=SahilDhingraa&icon=2&color=6)](https://visitcount.itsvg.in)
 
