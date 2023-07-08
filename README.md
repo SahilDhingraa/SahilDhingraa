@@ -4,7 +4,7 @@
 <pre>
 🔭 I’m currently working on:
     Preofessionally: C#(.Net), JS(Angular)
-    Personally: JS(React), {exploring new technologies everyday}
+    Personally: GoLang, {exploring new technologies everyday}
 </pre>
 [![](https://visitcount.itsvg.in/api?id=SahilDhingraa&icon=2&color=6)](https://visitcount.itsvg.in)
 
