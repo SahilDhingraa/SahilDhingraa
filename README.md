@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Arbitrage Bot(Go)<br>🌱 I’m currently learning: Go & Svelte<br>⚡ Fun fact: I think I am funny
+🔭 I’m currently building an EdTech Startup<br>🌱 I’m currently learning: Go & Svelte<br>⚡ Fun fact: I think I am funny
 
 
 ## 🌐 Socials:
