@@ -6,8 +6,6 @@ Welcome to my GitHub repository! I'm a passionate full-stack developer with expe
 
 - **Node.js:** I leverage the power of Node.js for server-side development, building scalable and efficient applications.
 
-- **Next.js:** As a fan of React, I use Next.js to create powerful and dynamic front-end applications, ensuring a seamless user experience.
-
 - **Golang:** I embrace the simplicity and performance of Golang for building robust backend services and microservices.
 
 - **Blockchain Technologies:** I'm actively learning and experimenting with blockchain technologies, diving into the decentralized world and exploring smart contract development.
