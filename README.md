@@ -24,7 +24,7 @@ I believe in continuous learning, and my current focus is on mastering blockchai
 
 I'm always open to collaboration, discussions, and feedback. If you find my work interesting or have any questions, feel free to reach out:
 
-- Email: dhingrasd452@gmail.com
+- Email: dhingrasd451@gmail.com
 - LinkedIn: [sahildhingraa](https://www.linkedin.com/in/sahildhingraa/)
 - Twitter: [@novoocaiine](https://twitter.com/novoocaiine)
 
