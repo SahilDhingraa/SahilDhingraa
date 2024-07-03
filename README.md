@@ -1,6 +1,6 @@
 ## Hello, I'm Sahil 🚀
 
-Welcome to my GitHub repository! I'm a passionate full-stack developer with expertise in Node.js, Next.js, and Golang. I'm also on an exciting journey of learning and exploring blockchain technologies. This repository showcases my projects, contributions, and the technologies I'm currently working with.
+I'm a passionate full-stack developer with expertise in Node.js, Next.js, and Golang. I'm also on an exciting journey of learning and exploring blockchain technologies.
 
 ### Technologies and Skills 🔭
 
@@ -34,5 +34,3 @@ If you share a passion for coding, blockchain, or any of the technologies I work
 - Paypal: [@sahildhingra451](https://paypal.me/sahildhingra451?country.x=IN&locale.x=en_GB)
 - Ethereum: ```0x5289FDE32a963bcA018C098189B635ffeec71b0d```
 - Polygon: ```0x5289FDE32a963bcA018C098189B635ffeec71b0d```
-
-Happy coding! 🚀
