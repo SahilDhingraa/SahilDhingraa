@@ -1,3 +1,7 @@
-## Hello, I'm Sahil 🚀
+👋 Hi, I'm Sahil — a Software Engineer passionate about building scalable backend systems and modern web applications.
 
-I'm a passionate full-stack developer with expertise in Node.js, Next.js, and Golang. I'm also on an exciting journey of learning and exploring blockchain technologies.
+💻 Tech Stack: Go | Node.js | PostgreSQL | Docker | React | Next.js  
+⚙️ DevOps: CI/CD | Azure | Git | Microservices Architecture  
+🛠️ Currently building systems from scratch and solving real-world problems.
+
+📫 Reach me at: [sah1l.com](https://sah1l.com)
